@@ -1,2 +1,5 @@
 joblib
 sklearn
+pandas
+numpy
+streamlit
